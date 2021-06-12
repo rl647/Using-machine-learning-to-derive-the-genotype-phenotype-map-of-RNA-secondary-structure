@@ -1,0 +1,4 @@
+.pkl files are the parameters of different models
+Net2:1,000 L=24, L=27 model.pkl,3,000 L=20, and 10,000 L=30 phenotypes model.pkl,500 L=27,L=24 model.pkl,500 L=24, L=27, L=36 model.pkl
+The reamaining models are Net1
+std means standard deviation
